@@ -1,4 +1,4 @@
-Hey! I’m @comhad, an apiring discord bot developer!
+Hey! I’m comhad, an aspiring discord bot developer!
 
 I've made two discord bots, they are currently on my [github.io](https://comhad.github.io/) page!
 
