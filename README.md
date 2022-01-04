@@ -4,10 +4,12 @@
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-Hey! I’m comhad, an aspiring discord bot developer!
+Hey! I’m comhad, a discord bot and web developer!
 
-I've made two discord bots, they are currently on my [github.io](https://comhad.github.io/) page!
+I made [QuoteBot](https://quotebot.me), one of the biggest UNDERTALE bots on discord. 
 
-I've also made a stellar firma inspired [twitter bot](https://twitter.com/BotTrexel/).
+![](https://img.shields.io/endpoint?url=https%3A%2F%2Fdash.quotebot.me/api/badges/servers&style=for-the-badge&logo=probot&logoColor=white)
 
-You can reach me at [@AonanComhad](https://twitter.com/AonanComhad) on twitter.
+[I also have a blog on development](https://obscure.blog/).
+
+![](https://img.shields.io/badge/Obscure%20Blogging-000000?style=for-the-badge&logo=dev.to&logoColor=white)
