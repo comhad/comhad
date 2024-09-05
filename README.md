@@ -8,8 +8,4 @@ Hey! I’m comhad, a discord bot and web developer!
 
 I made [QuoteBot](https://quotebot.me), one of the biggest UNDERTALE bots on discord. 
 
-![](https://img.shields.io/endpoint?url=https%3A%2F%2Fdash.quotebot.me/api/badges/servers&style=for-the-badge&logo=probot&logoColor=white)
-
-[I also have a blog on development](https://obscure.blog/).
-
 ![](https://img.shields.io/badge/Obscure%20Blogging-000000?style=for-the-badge&logo=dev.to&logoColor=white)
